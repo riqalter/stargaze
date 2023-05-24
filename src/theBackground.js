@@ -14,6 +14,6 @@ export const theBackground = () => {
             )
         `)
     }
-    return background.join(';')
+    return background.join(',')
 }
 
