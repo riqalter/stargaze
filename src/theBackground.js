@@ -1,5 +1,3 @@
-// todo: fix false css injection COK.
-
 import { getRandomNumber } from "./getRandomNum";
 import { getRandomColor } from "./getRandomColor";
 
